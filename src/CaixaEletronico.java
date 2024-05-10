@@ -21,7 +21,7 @@ public class CaixaEletronico {
 
             System.out.print("Escolha uma opção (1-4): ");
             int opcao = scanner.nextInt();
-            scanner.nextLine();  // Limpa o buffer do scanner
+            scanner.nextLine();
 
             switch (opcao) {
                 case 1:
