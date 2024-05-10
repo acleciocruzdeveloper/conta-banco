@@ -1,0 +1,23 @@
+
+]
+java:S1220""Move this file to a named package.8Ÿ§Ç€ö1J$a9e76f4a-ed6b-4a9e-9d87-ba7f8e5a3cc6
+r	java:S106"+Replace this use of System.out by a logger.(¯õ€æúÿÿÿÿ8©§Ç€ö1J$daa8b17d-03b9-434d-a6ad-1da1e1d9e8f1
+m	java:S106"+Replace this use of System.out by a logger.(ì·Õ»8©§Ç€ö1J$3ce9ee1c-8927-4d05-8977-766b984049ac
+r	java:S106!"+Replace this use of System.out by a logger.(¾Ÿ¦Èûÿÿÿÿ8…«É€ö1J$11247117-4b06-40fa-8f03-5c0b0ceadc7d
+m	java:S106#"+Replace this use of System.out by a logger.(›è×“8ÿ¤Ì€ö1J$35aa6590-a517-40e3-8fb1-19c9a1c33c0e
+m	java:S106)"+Replace this use of System.out by a logger.(³®À8¹¾î€ö1J$58a5bd01-c1ac-4bf9-92fd-e2a4c079e227
+l	java:S106-"+Replace this use of System.out by a logger.(úúçP8Œòñ€ö1J$0c0eccc5-08b2-4959-a0ea-922fd085ac5c
+r	java:S106/"+Replace this use of System.out by a logger.(œÆ¶ıÿÿÿÿ8õ½ü€ö1J$d50d5ba3-4748-43d9-888d-40fb8d8d81d1
+l	java:S1062"+Replace this use of System.out by a logger.(Öê‚i8ªÕ‚ö1J$256cc378-4a18-4610-849b-622ca4d803d5
+ˆ
+java:S1854b"@Remove this useless assignment to local variable "iveteSangalo".(½º¬ışÿÿÿÿ8®§Ç€ö1J$444655a7-dc9c-4fd0-a95c-3c6da68e0d78
+€
+java:S1854a">Remove this useless assignment to local variable "raulSeixas".(¯ä—8®§Ç€ö1J$0dea7370-1ecc-4e53-bf1c-519993a30984
+„
+java:S1854`"ARemove this useless assignment to local variable "robertoCarlos".(¯ ‡8®§Ç€ö1J$2cdc4585-0a70-45fa-b9be-60377ca0edef
+u
+java:S1481`"2Remove this unused "robertoCarlos" local variable.(¯ ‡8¯§Ç€ö1J$b71ce2a3-d851-497f-b602-5563c258eaab
+q
+java:S1481a"/Remove this unused "raulSeixas" local variable.(¯ä—8°§Ç€ö1J$44217718-5f57-4fd4-8e7c-f24b5363fd41
+y
+java:S1481b"1Remove this unused "iveteSangalo" local variable.(½º¬ışÿÿÿÿ8°§Ç€ö1J$a6c0762e-f532-4c9d-93c4-2d4952916cc1
